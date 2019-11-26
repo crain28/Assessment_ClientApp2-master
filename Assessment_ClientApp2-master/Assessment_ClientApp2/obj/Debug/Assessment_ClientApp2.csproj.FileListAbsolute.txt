@@ -1,0 +1,7 @@
+E:\CIT110\week14\Assessment_ClientApp2-master\Assessment_ClientApp2\bin\Debug\Data\Data.txt
+E:\CIT110\week14\Assessment_ClientApp2-master\Assessment_ClientApp2\bin\Debug\Monsters.exe.config
+E:\CIT110\week14\Assessment_ClientApp2-master\Assessment_ClientApp2\bin\Debug\Monsters.exe
+E:\CIT110\week14\Assessment_ClientApp2-master\Assessment_ClientApp2\bin\Debug\Monsters.pdb
+E:\CIT110\week14\Assessment_ClientApp2-master\Assessment_ClientApp2\obj\Debug\Assessment_ClientApp2.csprojAssemblyReference.cache
+E:\CIT110\week14\Assessment_ClientApp2-master\Assessment_ClientApp2\obj\Debug\Monsters.exe
+E:\CIT110\week14\Assessment_ClientApp2-master\Assessment_ClientApp2\obj\Debug\Monsters.pdb
